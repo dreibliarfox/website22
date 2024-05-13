@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>WinTech Enterprises</title>
+</head>
+
+<frameset cols="18%,82%">
+    <frame src="strona1.html">
+    <frame src="strona2.html">
+</frameset>
+
+</html>
